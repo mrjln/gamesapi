@@ -1,14 +1,13 @@
 {
-  "name": "recipes-api",
+  "name": "games-api",
   "version": "1.0.0",
-  "description": "RESTful API to manage Recipes",
+  "description": "RESTful API to manage Games",
   "main": "index.js",
-  "repository": "https://github.com/Codaisseur/recipes-api-b11",
+  "repository": "https://github.com/mrjln/gamesapi",
   "author": "Codaisseur <teachers@codaisseur.com>",
   "license": "MIT",
   "scripts": {
     "start": "node .",
-    "seed": "node db/seed.js"
   },
   "dependencies": {
     "body-parser": "^1.18.2",
